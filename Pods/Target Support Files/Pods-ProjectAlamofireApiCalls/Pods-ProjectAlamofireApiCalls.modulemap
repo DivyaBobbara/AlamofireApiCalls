@@ -1,0 +1,6 @@
+framework module Pods_ProjectAlamofireApiCalls {
+  umbrella header "Pods-ProjectAlamofireApiCalls-umbrella.h"
+
+  export *
+  module * { export * }
+}
